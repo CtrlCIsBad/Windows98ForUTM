@@ -21,4 +21,8 @@ Then click on Open.
 Select Windows 98 Pre-configured Windows 98 Pre-installed based on what you need. For example, i will go with Windows 98 Pre-installed.<img width="1290" height="2796" alt="IMG_7011" src="https://github.com/user-attachments/assets/88c87ba1-1839-4b12-8113-96f091945863" />
 Ignore this warning.
 <img width="1290" height="2796" alt="IMG_7012" src="https://github.com/user-attachments/assets/ae0acc18-4f1d-43fc-b17f-fa6874497e26" />
-If you are 
+If you are planning to use pre-configured, select CD/DVD and click on browse then select your iso.
+<img width="1290" height="2796" alt="IMG_7014" src="https://github.com/user-attachments/assets/1f8f64d3-bba3-4001-b9db-55f1e2825e19" />
+When you have imported your iso in cd/dvd (only for pre-configuration ones), or using pre-installed version, simply click the play button.<img width="1290" height="2796" alt="IMG_7015" src="https://github.com/user-attachments/assets/daf8908a-3392-4e37-ae72-ae502b529743" />
+Well, if you are using pre-configured, its gonna take you to setup. Make sure to enable large disk support!<img width="645" height="1398" alt="IMG_7016" src="https://github.com/user-attachments/assets/69a3fabf-666d-488b-a2cb-33868d7e6b0d" />
+
