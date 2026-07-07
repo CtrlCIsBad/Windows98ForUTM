@@ -24,5 +24,6 @@ Ignore this warning.
 If you are planning to use pre-configured, select CD/DVD and click on browse then select your iso.
 <img width="1290" height="2796" alt="IMG_7014" src="https://github.com/user-attachments/assets/1f8f64d3-bba3-4001-b9db-55f1e2825e19" />
 When you have imported your iso in cd/dvd (only for pre-configuration ones), or using pre-installed version, simply click the play button.<img width="1290" height="2796" alt="IMG_7015" src="https://github.com/user-attachments/assets/daf8908a-3392-4e37-ae72-ae502b529743" />
-Well, if you are using pre-configured, its gonna take you to setup. Make sure to enable large disk support!<img width="645" height="1398" alt="IMG_7016" src="https://github.com/user-attachments/assets/69a3fabf-666d-488b-a2cb-33868d7e6b0d" />
+If you are using pre-configured, its gonna take you to setup. Make sure to enable large disk support since the disk size is 2gb.<img width="645" height="1398" alt="IMG_7016" src="https://github.com/user-attachments/assets/69a3fabf-666d-488b-a2cb-33868d7e6b0d" />
+Now we are at the desktop. (again, if you are a pre-configured user you should be at setup.) Do anything you like!<img width="645" height="1398" alt="IMG_7017" src="https://github.com/user-attachments/assets/59c131f3-2794-412f-9c36-0b5084f66e36" />
 
